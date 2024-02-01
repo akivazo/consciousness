@@ -1,0 +1,2 @@
+class pulse:
+    strength: float

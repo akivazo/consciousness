@@ -1,0 +1,4 @@
+
+
+class concept:
+    pass

@@ -1,0 +1,3 @@
+
+class intelligence:
+    pass
